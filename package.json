@@ -1,0 +1,22 @@
+{
+    "name": "jsaqa-5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "eslint": "eslint",
+        "prettier": "prettier"
+    },
+    "author": "DmBer",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "7.1.0",
+        "jest": "^29.3.1"
+    },
+    "dependencies": {
+        "jest-puppeteer": "^6.1.1",
+        "prettier": "^2.8.0",
+        "puppeteer": "^19.3.0"
+    }
+}
